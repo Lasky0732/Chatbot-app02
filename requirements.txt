@@ -1,0 +1,10 @@
+line-bot-sdk
+flask
+requests
+pandas
+numpy
+beautifulsoup4
+lxml
+pandas_datareader
+matplotlib
+pyimgur
